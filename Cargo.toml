@@ -1,0 +1,11 @@
+[package]
+name = "aoc"
+version = "0.1.0"
+authors = ["Stephen Krochenski <skrochen@krotek.com>"]
+edition = "2020"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+regex = "1"
+bimap = "0.6.1"
